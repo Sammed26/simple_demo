@@ -1,1 +1,4 @@
 started building demo web shop.
+
+ on branch login_dev
+ 	- login feature is developed
